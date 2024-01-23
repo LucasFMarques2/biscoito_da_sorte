@@ -94,9 +94,8 @@ span {
   position: relative;
   top: 1rem;
 
-  animation: showLuck 5s;
+  animation: showLuck 3s;
 }
-
 
 .screen2 img {
   display: flex;
@@ -141,45 +140,17 @@ button {
 }
 
 @keyframes showLuck {
-  0%{
-    top: 15rem
-  }
-  10%{
-    top: 13rem;
-  }
-  20%{
-    top: 12rem;
-  }
-  25%{
-    top: 11rem;
-  }
-  30%{
-    top: 10rem;
-  }
-  45%{
-    top: 8rem;
-  }
-  55%{
-    top: 7rem;
-  }
-  60%{
-    top: 6rem;
-  } 
-  65%{
-    top: 5rem;
-  }
-  70%{
-    top: 4rem;
-  }
-  80%{
-    top: 3rem;
-  }
-  90%{
-    top: 2rem;
-  }
-  100%{
+  0% {
+    transform:
+    translateY(15.0rem)
+    scale(0.1);
 
-    top: 1rem;
+  }
+
+  100% {
+    transform:
+    translateY(0px)
+    scale(1);
   }
  
 }
