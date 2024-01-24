@@ -9,3 +9,5 @@ Neste Projeto você verá um jogo chamado Biscoito da Sorte, no qual o usuário,
 - Arrays
 
 - Layout: https://www.figma.com/file/dlwrpSzSlyCegK8BURJrGr/Biscoito-da-Sorte-(Community)?type=design&mode=design
+
+- ![Descrição da Imagem](./img/biscoito_da_sorte.jpg)
