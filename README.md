@@ -8,6 +8,6 @@ Neste Projeto você verá um jogo chamado Biscoito da Sorte, no qual o usuário,
 - Funções *callback*
 - Arrays
 
-- Layout: https://www.figma.com/file/dlwrpSzSlyCegK8BURJrGr/Biscoito-da-Sorte-(Community)?type=design&mode=design
+  [Aplicação homologada](https://cook-da-sorte.netlify.app/)
 
 - ![Descrição da Imagem](./img/biscoito_da_sorte.jpg)
